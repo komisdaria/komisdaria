@@ -3,11 +3,12 @@
 👩‍💻 I'm Dari Komissarova, JavaScript developer from Russia, Moscow.
 
 ### Skills
-* TypeScript, JavaScript
+* 💎 JavaScript
 * 🧩 React
 * 🎯 Redux
 * 🧿 SASS, CSS
 * 📦 Mongo DB
+* 🔋Node.js
 * 🛠 Express
 
 ### Contacts
