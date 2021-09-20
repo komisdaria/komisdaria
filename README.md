@@ -1,4 +1,4 @@
-### Hey! 👋 I'm Dari Komissarova
+### Hey! 👋 I'm Daria Komissarova
 
 👩‍💻 I'm Dari Komissarova, JavaScript developer from Russia, Moscow.
 
