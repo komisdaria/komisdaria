@@ -12,8 +12,8 @@
 * 🛠 Express
 
 ### I’m currently learning:
-🧠 TypeScript (the first experience with TS was in project https://github.com/komisdaria/minzdrav-portal-sochi This one was completed in 10 days by 3 authors)
-🔗 SQL
+* 🧠 TypeScript (the first experience with TS was in project https://github.com/komisdaria/minzdrav-portal-sochi This one was completed in 10 days by 3 authors)
+* 🔗 SQL
 
 ### Language:
 ✌ English - A2 (Elementary)
