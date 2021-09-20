@@ -5,7 +5,8 @@
 ### Skills
 * TypeScript, JavaScript
 * 🧩 React
-* 👁 SASS, CSS
+* 🎯 Redux
+* 🧿 SASS, CSS
 * 📦 Mongo DB
 * 🛠 Express
 
