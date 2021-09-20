@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hey! 👋
+
+👩‍💻 I'm Dari Komissarova, JavaScript developer from Russia, Moscow.
+
+### Skills
+* TypeScript, JavaScript
+* 🧩 React
+* 👁 SASS, CSS
+* 📦 Mongo DB
+* 🛠 Express
+
+### Contacts
+🤳 [@komissd](https://www.instagram.com/komissd/) on Instagram
+📬 e-mail: komiss.daria@gmail.com
 
 <!--
 **komisdaria/komisdaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
