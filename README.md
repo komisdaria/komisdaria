@@ -11,8 +11,8 @@
 * 🛠 Express
 
 ### Contacts
-🤳 [@komissd](https://www.instagram.com/komissd/) on Instagram
-📬 e-mail: komiss.daria@gmail.com
+* 🤳 [@komissd](https://www.instagram.com/komissd/) on Instagram
+* 📬 e-mail: komiss.daria@gmail.com
 
 <!--
 **komisdaria/komisdaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
