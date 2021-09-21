@@ -16,7 +16,7 @@
 * 🔗 SQL
 
 ### Language:
-✌ English - A2 (Elementary)
+✌ English B1 
 
 ### Contacts
 * 🤳 [@komissd](https://www.instagram.com/komissd/) on Instagram
