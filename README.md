@@ -16,7 +16,7 @@
 * 🔗 SQL
 
 ### Language:
-✌ English B1 
+✌ English (Professional Working Proficiency)
 
 ### Contacts
 * 🤳 [@komissd](https://www.instagram.com/komissd/) on Instagram
