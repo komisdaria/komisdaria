@@ -21,7 +21,7 @@
 ✌ English B1 (Intermediate English)
 
 ### Contacts
-* 🤳 [@komissd](https://www.instagram.com/komissd/) on Instagram
+* 🤳 [@komisdaria](https://www.instagram.com/komisdaria/) on Instagram
 * 💼 [profile](https://www.linkedin.cn/in/daria-komissarova/) on Linkedin 
 * 📳 [telegram](https://t.me/darikomis) send me message in telegram
 * 📬 e-mail: komiss.daria@gmail.com
