@@ -4,7 +4,7 @@
 
 ### Skills
 * 💎 JavaScript, TypeScript
-* 🧩 React
+* 🧩 React, SSR
 * 🎯 Redux
 * 🎭 Jest, Enzyme
 * 🧿 SASS, CSS, SCSS
